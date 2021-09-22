@@ -1,0 +1,15 @@
+{
+  "name": "Krastorio2Graphics",
+  "version": "1.0.0",
+  "title": "Krastorio 2 Graphics",
+  "description": "Graphics for the Krastorio 2 mod.",
+  "author": "Linver, Krastor, raiguard",
+  "contact": "https://discord.gg/sUmpTHN",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1.39",
+    "flib >= 0.8.4",
+    "~ Krastorio2 >= 1.2.0"
+  ]
+}
+
