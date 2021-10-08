@@ -6,5 +6,5 @@
   "author": "Linver, Krastor, raiguard",
   "contact": "https://discord.gg/sUmpTHN",
   "factorio_version": "1.1",
-  "dependencies": ["base >= 1.1.39", "flib >= 0.8.4", "~ Krastorio2 >= 1.2.0"]
+  "dependencies": ["base >= 1.1.39", "~ Krastorio2 >= 1.2.0"]
 }
