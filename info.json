@@ -1,10 +1,10 @@
 {
-  "name": "Krastorio2Graphics",
-  "version": "1.0.1",
-  "title": "Krastorio 2 Graphics",
-  "description": "Graphics for the Krastorio 2 mod.",
+  "name": "Krastorio2Assets",
+  "version": "1.0.0",
+  "title": "Krastorio 2 Assets",
+  "description": "Assets for Krastorio 2.",
   "author": "Linver, Krastor, raiguard",
   "contact": "https://discord.gg/sUmpTHN",
   "factorio_version": "1.1",
-  "dependencies": ["base >= 1.1.39", "~ Krastorio2 >= 1.2.0"]
+  "dependencies": ["base >= 1.1.41", "~ Krastorio2 >= 1.2.0"]
 }
