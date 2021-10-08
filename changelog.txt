@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2021-10-08
   Features:
     - Split Krastorio 2 graphics into a separate mod
