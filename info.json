@@ -6,5 +6,8 @@
   "author": "Linver, Krastor, raiguard",
   "contact": "https://discord.gg/ECBzaXu",
   "factorio_version": "1.1",
-  "dependencies": ["base >= 1.1.41", "~ Krastorio2 >= 1.2.7"]
+  "dependencies": ["base >= 1.1.41", "~ Krastorio2 >= 1.2.7"],
+  "package": {
+    "git_publish_branch": "main"
+  }
 }
