@@ -2,6 +2,7 @@
 Version: 1.2.1
 Date: ????
   Changes:
+    - Updated transport belt icons (credit to Minimalist)
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0
 Date: 2022-06-09
