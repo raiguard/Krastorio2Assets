@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.1
-Date: ????
+Date: 2022-11-14
   Changes:
     - Added dedicated creep collector and jackhammer shortcut icons
     - Updated transport belt icons (credit to Minimalist)
