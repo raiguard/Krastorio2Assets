@@ -1,15 +1,17 @@
 {
   "name": "Krastorio2Assets",
-  "version": "1.2.2",
+  "version": "2.0.0",
   "title": "Krastorio 2 Assets",
   "description": "Assets for Krastorio 2.",
   "author": "Linver, Krastor, raiguard",
   "contact": "https://lists.sr.ht/~raiguard/factorio-mods-discuss",
   "homepage": "https://sr.ht/~raiguard/factorio-mods",
   "factorio_version": "1.1",
-  "dependencies": ["base >= 1.1.41"],
+  "dependencies": [ "base >= 1.1.74" ],
   "package": {
     "git_publish_branch": "main",
-    "ignore": ["KRASTORIO_SOURCE.zip"]
+    "ignore": [
+      "KRASTORIO_SOURCE.zip"
+    ]
   }
 }
