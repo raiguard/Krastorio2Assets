@@ -2,7 +2,7 @@
 Version: 1.2.2
 Date: ????
   Changes:
-    - Updated first aid kit icon to no longer break the Geneva Convention.
+    - Updated first aid kit icon to no longer break the Geneva Conventions.
   Bugfixes:
     - Fixed several icons not having mipmaps, causing warnings in the log file (credit to Galdoc). (https://github.com/raiguard/Krastorio2/issues/397)
 ---------------------------------------------------------------------------------------------------
