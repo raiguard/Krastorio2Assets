@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.2
-Date: ????
+Date: 2023-12-12
   Changes:
     - Updated first aid kit icon to no longer break the Geneva Conventions.
   Bugfixes:
