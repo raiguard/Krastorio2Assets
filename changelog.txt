@@ -2,6 +2,7 @@
 Version: 2.0.1
 Date: ????
   Changes:
+    - Updated numerous icons and entity assets with more consistent lighting and better clarity at small sizes. Thank you Snouz! (#5)
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.0
 Date: 2024-10-28
